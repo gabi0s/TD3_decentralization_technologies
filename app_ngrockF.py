@@ -5,6 +5,7 @@ import numpy as np
 model_urls = [
     "https://e78e-89-30-29-68.ngrok-free.app/predict", #gab
     "https://a1d9-89-30-29-68.ngrok-free.app/predict"  #théo
+    "https://486f-2a01-cb00-adb-fe00-79df-dfdd-d24c-d026.ngrok-free.app/predict" #victor
 ]
 
 # Initial weights and deposits
